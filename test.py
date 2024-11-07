@@ -1,3 +1,4 @@
 print('meow')
 
-print('hello')
+print('candy land')
+print('is a fun board game and a place to go eat candy')
